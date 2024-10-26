@@ -15,7 +15,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 700px;
+  height: 100vh;
   row-gap: 50px;
 }
 .inner {
